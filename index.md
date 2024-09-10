@@ -96,7 +96,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/gen_once2QuickVC/p225_002_p230_269.wav" controls preload></audio>
       </td>
     </tr>
-  </table>
+</table>
 
 
 ## Defense against TriAANVC
@@ -185,7 +185,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/gen_once2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
       </td>
     </tr>
-  </table>
+</table>
 
 
 ## Defense against FreeVC
@@ -275,5 +275,5 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/gen_once2FreeVC/p225_002_p234_017.wav" controls preload></audio>
       </td>
     </tr>
-  </table>
+</table>
 
