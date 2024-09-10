@@ -15,7 +15,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td></td>
-      <th colspan="2">Content utterance</th>
+      <th colspan="2" style="text-align: center;">Content utterance</th>
     </tr>
     <tr>
       <td><i>p225_002</i></td>
@@ -25,8 +25,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
     </tr>
     <tr>
       <td></td>
-      <th>Speaker utterance</th>
-      <th>Conversion result</th>
+      <th style="text-align: center;">Speaker utterance</th>
+      <th style="text-align: center;">Conversion result</th>
     </tr>
     <tr>
       <td>
