@@ -12,24 +12,49 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-<audio controls>
-  <source src="audio/pertured_black_box_QuickVC/p225_002_p230_269.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="audio/black_box_FreeVC_test_antifakeloss/p225_002_p230_269.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="audio/perture_antifake/p225_002_p230_269.wav" type="audio/wav">
-Your browser does not support the audio element.
-
-<audio controls>
-  <source src="audio/antifake2QuickVC//p225_002_p230_269.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
+<table>
+    <tr>
+      <td></td>
+      <th colspan="2">Content utterance</th>
+    </tr>
+    <tr>
+      <td><i>p225_002</i></td>
+      <td colspan="2">
+        <audio src="audio/chou/pair-085/content.wav" controls preload></audio>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <th>Speaker utterance</th>
+      <th>Conversion result</th>
+    </tr>
+    <tr>
+      <td>
+        <i>p333_334</i>
+        <br>
+        Our
+      </td>
+      <td>
+        <audio src="audio/pertured_black_box_QuickVC/p225_002_p230_269.wav" controls preload></audio>
+      </td>
+      <td>
+        <audio src="audio/black_box_QuickVC_test_antifakeloss/p225_002_p230_269.wav" controls preload></audio>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <i>p333_334</i>
+        <br>
+        Antifake
+      </td>
+      <td>
+        <audio src="audio/perture_antifake/p225_002_p230_269.wav" controls preload></audio>
+      </td>
+      <td>
+        <audio src="audio/antifake2QuickVC/p225_002_p230_269.wav" controls preload></audio>
+      </td>
+    </tr>
+  </table>
 
 
 ## Defense against TriAANVC
