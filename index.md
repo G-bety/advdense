@@ -82,10 +82,10 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         Our
       </td>
       <td style="text-align: center;">
-        <audio src="audio/pertured_black_box_TriAANVC/p225_002_p279_209.wav" controls preload></audio>
+        <audio src="audio/pertured_black_box_TriAANVC/p225_002_p330_213.wav" controls preload></audio>
       </td>
       <td style="text-align: center;">
-        <audio src="audio/black_box_TriAANVC_test_antifakeloss/p225_002_p279_209.wav" controls preload></audio>
+        <audio src="audio/black_box_TriAANVC_test_antifakeloss/p225_002_p330_213.wav" controls preload></audio>
       </td>
     </tr>
     <tr>
