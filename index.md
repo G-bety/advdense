@@ -18,7 +18,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
       <th colspan="2" style="text-align: center;">Content utterance</th>
     </tr>
     <tr>
-      <td><i>p225_002</i></td>
+      <td style="text-align: center;"><i>p225_002</i></td>
       <td colspan="2" style="text-align: center;">
         <audio src="audio/chou/pair-085/content.wav" controls preload></audio>
       </td>
@@ -65,7 +65,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
       <th colspan="2" style="text-align: center;">Content utterance</th>
     </tr>
     <tr>
-      <td><i>p225_002</i></td>
+      <td style="text-align: center;"><i>p225_002</i></td>
       <td colspan="2" style="text-align: center;">
         <audio src="audio/chou/pair-085/content.wav" controls preload></audio>
       </td>
@@ -113,7 +113,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
       <th colspan="2" style="text-align: center;">Content utterance</th>
     </tr>
     <tr>
-      <td><i>p225_002</i></td>
+      <td style="text-align: center;"><i>p225_002</i></td>
       <td colspan="2" style="text-align: center;">
         <audio src="audio/chou/pair-085/content.wav" controls preload></audio>
       </td>
