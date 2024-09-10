@@ -19,7 +19,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
     </tr>
     <tr>
       <td><i>p225_002</i></td>
-      <td colspan="2">
+      <td colspan="2" style="text-align: center;">
         <audio src="audio/chou/pair-085/content.wav" controls preload></audio>
       </td>
     </tr>
@@ -29,28 +29,28 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
       <th style="text-align: center;">Conversion result</th>
     </tr>
     <tr>
-      <td>
+      <td style="text-align: center;">
         <i>p333_334</i>
         <br>
         Our
       </td>
-      <td>
+      <td style="text-align: center;">
         <audio src="audio/pertured_black_box_QuickVC/p225_002_p230_269.wav" controls preload></audio>
-      </td>
+      </td style="text-align: center;">
       <td>
         <audio src="audio/black_box_QuickVC_test_antifakeloss/p225_002_p230_269.wav" controls preload></audio>
       </td>
     </tr>
     <tr>
-      <td>
+      <td style="text-align: center;">
         <i>p333_334</i>
         <br>
         Antifake
       </td>
-      <td>
+      <td style="text-align: center;">
         <audio src="audio/perture_antifake/p225_002_p230_269.wav" controls preload></audio>
       </td>
-      <td>
+      <td style="text-align: center;">
         <audio src="audio/antifake2QuickVC/p225_002_p230_269.wav" controls preload></audio>
       </td>
     </tr>
