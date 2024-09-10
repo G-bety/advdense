@@ -12,7 +12,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td></td>
       <th colspan="2">Content utterance</th>
