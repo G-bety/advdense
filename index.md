@@ -67,7 +67,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/attackvc2QuickVC/p225_002_p230_269.wav" controls preload></audio>
       </td>
     </tr>
-    </tr>
+    <tr>
         <tr>
       <td style="text-align: center; vertical-align: middle">
         <i>p333_334</i>
@@ -81,7 +81,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/voiceguard2QuickVC/p225_002_p230_269.wav" controls preload></audio>
       </td>
     </tr>
-    </tr>
+    <tr>
         <tr>
       <td style="text-align: center; vertical-align: middle">
         <i>p333_334</i>
@@ -142,7 +142,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/antifake2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
       </td>
     </tr>
-    </tr>
+    <tr>
         <tr>
       <td style="text-align: center; vertical-align: middle">
         <i>p333_334</i>
@@ -170,7 +170,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/voiceguard2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
       </td>
     </tr>
-    </tr>
+    <tr>
         <tr>
       <td style="text-align: center; vertical-align: middle">
         <i>p333_334</i>
@@ -232,7 +232,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/antifake2FreeVC/p225_002_p234_017.wav" controls preload></audio>
       </td>
     </tr>
-    </tr>
+    <tr>
         <tr>
       <td style="text-align: center; vertical-align: middle">
         <i>p333_334</i>
@@ -246,7 +246,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/attackvc2FreeVC/p225_002_p234_017.wav" controls preload></audio>
       </td>
     </tr>
-    </tr>
+    <tr>
         <tr>
       <td style="text-align: center; vertical-align: middle">
         <i>p333_334</i>
@@ -260,7 +260,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/voiceguard2FreeVC/p225_002_p234_017.wav" controls preload></audio>
       </td>
     </tr>
-    </tr>
+    <tr>
         <tr>
       <td style="text-align: center; vertical-align: middle">
         <i>p333_334</i>
