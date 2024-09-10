@@ -15,83 +15,83 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td></td>
-      <th colspan="2" style="text-align: center;">Content utterance</th>
+      <th colspan="2" tyle="text-align: center; vertical-align: middle">Content utterance</th>
     </tr>
     <tr>
-      <td style="text-align: center;"><i>p225_002</i></td>
-      <td colspan="2" style="text-align: center;">
-        <audio src="audio/chou/pair-085/content.wav" controls preload></audio>
+      <td tyle="text-align: center; vertical-align: middle"><i>p225_002</i></td>
+      <td colspan="2" tyle="text-align: center; vertical-align: middle">
+        <audio src="audio/p225_002.wav" controls preload></audio>
       </td>
     </tr>
     <tr>
       <td></td>
-      <th style="text-align: center;">Speaker utterance</th>
-      <th style="text-align: center;">Conversion result</th>
+      <th tyle="text-align: center; vertical-align: middle">Speaker utterance</th>
+      <th tyle="text-align: center; vertical-align: middle">Conversion result</th>
     </tr>
     <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         Our
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/pertured_black_box_QuickVC/p225_002_p230_269.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/black_box_QuickVC_test_antifakeloss/p225_002_p230_269.wav" controls preload></audio>
       </td>
     </tr>
     <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         Antifake
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/perture_antifake/p225_002_p230_269.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/antifake2QuickVC/p225_002_p230_269.wav" controls preload></audio>
       </td>
     </tr>
         <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         Attack-VC
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/pertured_attackvc/p225_002_p230_269.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/attackvc2QuickVC/p225_002_p230_269.wav" controls preload></audio>
       </td>
     </tr>
     </tr>
         <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         VoiceGuard
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/pertured_voiceguard/p225_002_p230_269.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/voiceguard2QuickVC/p225_002_p230_269.wav" controls preload></audio>
       </td>
     </tr>
     </tr>
         <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         Our(stage-1)
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/pertured_gen_once/p225_002_p230_269.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/gen_once2QuickVC/p225_002_p230_269.wav" controls preload></audio>
       </td>
     </tr>
@@ -103,84 +103,84 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td></td>
-      <th colspan="2" style="text-align: center;">Content utterance</th>
+      <th colspan="2" tyle="text-align: center; vertical-align: middle">Content utterance</th>
     </tr>
     <tr>
-      <td style="text-align: center;"><i>p225_002</i></td>
-      <td colspan="2" style="text-align: center;">
-        <audio src="audio/chou/pair-085/content.wav" controls preload></audio>
+      <td tyle="text-align: center; vertical-align: middle"><i>p225_002</i></td>
+      <td colspan="2" tyle="text-align: center; vertical-align: middle">
+        <audio src="audio/p225_002.wav" controls preload></audio>
       </td>
     </tr>
     <tr>
       <td></td>
-      <th style="text-align: center;">Speaker utterance</th>
-      <th style="text-align: center;">Conversion result</th>
+      <th tyle="text-align: center; vertical-align: middle">Speaker utterance</th>
+      <th tyle="text-align: center; vertical-align: middle">Conversion result</th>
     </tr>
     <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         Our
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/pertured_black_box_TriAANVC/p225_002_p330_213.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/black_box_TriAANVC_test_antifakeloss/p225_002_p330_213.wav" controls preload></audio>
       </td>
     </tr>
     <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         Antifake
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/perture_antifake/p225_002_p330_213.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/antifake2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
       </td>
     </tr>
     </tr>
         <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         Attack-VC
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/pertured_attackvc/p225_002_p330_213.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/attackvc2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
       </td>
     </tr>
     </tr>
         <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         VoiceGuard
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/pertured_voiceguard/p225_002_p330_213.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/voiceguard2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
       </td>
     </tr>
     </tr>
         <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         Our(stage-1)
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/pertured_gen_once/p225_002_p330_213.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/gen_once2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
       </td>
     </tr>
@@ -193,84 +193,84 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td></td>
-      <th colspan="2" style="text-align: center;">Content utterance</th>
+      <th colspan="2" tyle="text-align: center; vertical-align: middle">Content utterance</th>
     </tr>
     <tr>
-      <td style="text-align: center;"><i>p225_002</i></td>
-      <td colspan="2" style="text-align: center;">
-        <audio src="audio/chou/pair-085/content.wav" controls preload></audio>
+      <td tyle="text-align: center; vertical-align: middle"><i>p225_002</i></td>
+      <td colspan="2" tyle="text-align: center; vertical-align: middle">
+        <audio src="audio/p225_002.wav" controls preload></audio>
       </td>
     </tr>
     <tr>
       <td></td>
-      <th style="text-align: center;">Speaker utterance</th>
-      <th style="text-align: center;">Conversion result</th>
+      <th tyle="text-align: center; vertical-align: middle">Speaker utterance</th>
+      <th tyle="text-align: center; vertical-align: middle">Conversion result</th>
     </tr>
     <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         Our
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/pertured_black_box-FreeVC/p225_002_p234_017.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/black_box_FreeVC_test_antifakeloss/p225_002_p234_017.wav" controls preload></audio>
       </td>
     </tr>
     <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         Antifake
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/perture_antifake/p225_002_p234_017.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/antifake2FreeVC/p225_002_p234_017.wav" controls preload></audio>
       </td>
     </tr>
     </tr>
         <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         Attack-VC
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/pertured_attackvc/p225_002_p234_017.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/attackvc2FreeVC/p225_002_p234_017.wav" controls preload></audio>
       </td>
     </tr>
     </tr>
         <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         VoiceGuard
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/pertured_voiceguard/p225_002_p234_017.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/voiceguard2FreeVC/p225_002_p234_017.wav" controls preload></audio>
       </td>
     </tr>
     </tr>
         <tr>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <i>p333_334</i>
         <br>
         Our(stage-1)
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/pertured_gen_once/p225_002_p234_017.wav" controls preload></audio>
       </td>
-      <td style="text-align: center;">
+      <td tyle="text-align: center; vertical-align: middle">
         <audio src="audio/gen_once2FreeVC/p225_002_p234_017.wav" controls preload></audio>
       </td>
     </tr>
