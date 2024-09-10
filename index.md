@@ -78,6 +78,52 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
+
+<table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td></td>
+      <th colspan="2" style="text-align: center;">Content utterance</th>
+    </tr>
+    <tr>
+      <td><i>p225_002</i></td>
+      <td colspan="2" style="text-align: center;">
+        <audio src="audio/chou/pair-085/content.wav" controls preload></audio>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <th style="text-align: center;">Speaker utterance</th>
+      <th style="text-align: center;">Conversion result</th>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <i>p333_334</i>
+        <br>
+        Our
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/pertured_black_box_TriAANVC/p225_002_p230_216.wav" controls preload></audio>
+      </td style="text-align: center;">
+      <td>
+        <audio src="audio/black_box_TriAANVC_test_antifakeloss/p225_002_p230_216.wav" controls preload></audio>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <i>p333_334</i>
+        <br>
+        Antifake
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/perture_antifake/p225_002_p230_216.wav" controls preload></audio>
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/antifake2TriAANVC/p225_002_p230_216.wav" controls preload></audio>
+      </td>
+    </tr>
+  </table>
+
+
 ## Defense against FreeVC
 
 
