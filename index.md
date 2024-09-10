@@ -54,6 +54,47 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/antifake2QuickVC/p225_002_p230_269.wav" controls preload></audio>
       </td>
     </tr>
+        <tr>
+      <td style="text-align: center;">
+        <i>p333_334</i>
+        <br>
+        Attack-VC
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/pertured_attackvc/p225_002_p230_269.wav" controls preload></audio>
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/attack2QuickVC/p225_002_p230_269.wav" controls preload></audio>
+      </td>
+    </tr>
+    </tr>
+        <tr>
+      <td style="text-align: center;">
+        <i>p333_334</i>
+        <br>
+        VoiceGuard
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/pertured_voiceguard/p225_002_p230_269.wav" controls preload></audio>
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/voiceguard2QuickVC/p225_002_p230_269.wav" controls preload></audio>
+      </td>
+    </tr>
+    </tr>
+        <tr>
+      <td style="text-align: center;">
+        <i>p333_334</i>
+        <br>
+        Our(stage-1)
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/pertured_gen_once/p225_002_p230_269.wav" controls preload></audio>
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/gen_once2QuickVC/p225_002_p230_269.wav" controls preload></audio>
+      </td>
+    </tr>
   </table>
 
 
@@ -99,6 +140,48 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
       </td>
       <td style="text-align: center;">
         <audio src="audio/antifake2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
+      </td>
+    </tr>
+    </tr>
+        <tr>
+      <td style="text-align: center;">
+        <i>p333_334</i>
+        <br>
+        Attack-VC
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/pertured_attackvc/p225_002_p330_213.wav" controls preload></audio>
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/attack2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
+      </td>
+    </tr>
+    </tr>
+        <tr>
+      <td style="text-align: center;">
+        <i>p333_334</i>
+        <br>
+        VoiceGuard
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/pertured_voiceguard/p225_002_p330_213.wav" controls preload></audio>
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/voiceguard2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
+      </td>
+    </tr>
+    </tr>
+        <tr>
+      <td style="text-align: center;">
+        <i>p333_334</i>
+        <br>
+        Our(stage-1)
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/pertured_gen_once/p225_002_p330_213.wav" controls preload></audio>
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/gen_once2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
       </td>
     </tr>
   </table>
@@ -147,6 +230,48 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
       </td>
       <td style="text-align: center;">
         <audio src="audio/antifake2FreeVC/p225_002_p234_017.wav" controls preload></audio>
+      </td>
+    </tr>
+    </tr>
+        <tr>
+      <td style="text-align: center;">
+        <i>p333_334</i>
+        <br>
+        Attack-VC
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/pertured_attackvc/p225_002_p234_017.wav" controls preload></audio>
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/attack2FreeVC/p225_002_p234_017.wav" controls preload></audio>
+      </td>
+    </tr>
+    </tr>
+        <tr>
+      <td style="text-align: center;">
+        <i>p333_334</i>
+        <br>
+        VoiceGuard
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/pertured_voiceguard/p225_002_p234_017.wav" controls preload></audio>
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/voiceguard2FreeVC/p225_002_p234_017.wav" controls preload></audio>
+      </td>
+    </tr>
+    </tr>
+        <tr>
+      <td style="text-align: center;">
+        <i>p333_334</i>
+        <br>
+        Our(stage-1)
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/pertured_gen_once/p225_002_p234_017.wav" controls preload></audio>
+      </td>
+      <td style="text-align: center;">
+        <audio src="audio/gen_once2FreeVC/p225_002_p234_017.wav" controls preload></audio>
       </td>
     </tr>
   </table>
