@@ -64,7 +64,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/pertured_attackvc/p225_002_p230_269.wav" controls preload></audio>
       </td>
       <td style="text-align: center;">
-        <audio src="audio/attack2QuickVC/p225_002_p230_269.wav" controls preload></audio>
+        <audio src="audio/attackvc2QuickVC/p225_002_p230_269.wav" controls preload></audio>
       </td>
     </tr>
     </tr>
@@ -153,7 +153,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/pertured_attackvc/p225_002_p330_213.wav" controls preload></audio>
       </td>
       <td style="text-align: center;">
-        <audio src="audio/attack2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
+        <audio src="audio/attackvc2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
       </td>
     </tr>
     </tr>
@@ -243,7 +243,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <audio src="audio/pertured_attackvc/p225_002_p234_017.wav" controls preload></audio>
       </td>
       <td style="text-align: center;">
-        <audio src="audio/attack2FreeVC/p225_002_p234_017.wav" controls preload></audio>
+        <audio src="audio/attackvc2FreeVC/p225_002_p234_017.wav" controls preload></audio>
       </td>
     </tr>
     </tr>
