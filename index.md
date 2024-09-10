@@ -10,7 +10,6 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
 
 ## Defense against QuickVC
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
@@ -27,28 +26,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <td></td>
         <th style="text-align: center; vertical-align: middle">Speaker utterance</th>
         <th style="text-align: center; vertical-align: middle">Conversion result</th>
-    </tr>
-    <tr>
-        <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Our
-        </td>
-        <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/pertured_black_box_QuickVC/p225_002_p230_269.wav" controls preload></audio>
-        </td>
-        <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/black_box_QuickVC_test_antifakeloss/p225_002_p230_269.wav" controls preload></audio>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Antifake
-        </td>
-        <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/perture_antifake/p225_002_p230_269.wav" controls preload></audio>
-        </td>
-        <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/antifake2QuickVC/p225_002_p230_269.wav" controls preload></audio>
-        </td>
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
@@ -74,6 +51,17 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
+            <i>p333_334</i><br>Antifake
+        </td>
+        <td style="text-align: center; vertical-align: middle">
+            <audio src="audio/perture_antifake/p225_002_p230_269.wav" controls preload></audio>
+        </td>
+        <td style="text-align: center; vertical-align: middle">
+            <audio src="audio/antifake2QuickVC/p225_002_p230_269.wav" controls preload></audio>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle">
             <i>p333_334</i><br>Our(stage-1)
         </td>
         <td style="text-align: center; vertical-align: middle">
@@ -81,6 +69,17 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/gen_once2QuickVC/p225_002_p230_269.wav" controls preload></audio>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle">
+            <i>p333_334</i><br>Our
+        </td>
+        <td style="text-align: center; vertical-align: middle">
+            <audio src="audio/pertured_black_box_QuickVC/p225_002_p230_269.wav" controls preload></audio>
+        </td>
+        <td style="text-align: center; vertical-align: middle">
+            <audio src="audio/black_box_QuickVC_test_antifakeloss/p225_002_p230_269.wav" controls preload></audio>
         </td>
     </tr>
 </table>
@@ -102,28 +101,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <td></td>
         <th style="text-align: center; vertical-align: middle">Speaker utterance</th>
         <th style="text-align: center; vertical-align: middle">Conversion result</th>
-    </tr>
-    <tr>
-        <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Our
-        </td>
-        <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/pertured_black_box_TriAANVC/p225_002_p330_213.wav" controls preload></audio>
-        </td>
-        <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/black_box_TriAANVC_test_antifakeloss/p225_002_p330_213.wav" controls preload></audio>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Antifake
-        </td>
-        <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/perture_antifake/p225_002_p330_213.wav" controls preload></audio>
-        </td>
-        <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/antifake2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
-        </td>
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
@@ -149,6 +126,17 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
+            <i>p333_334</i><br>Antifake
+        </td>
+        <td style="text-align: center; vertical-align: middle">
+            <audio src="audio/perture_antifake/p225_002_p330_213.wav" controls preload></audio>
+        </td>
+        <td style="text-align: center; vertical-align: middle">
+            <audio src="audio/antifake2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle">
             <i>p333_334</i><br>Our(stage-1)
         </td>
         <td style="text-align: center; vertical-align: middle">
@@ -156,6 +144,17 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/gen_once2TriAANVC/p225_002_p330_213.wav" controls preload></audio>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle">
+            <i>p333_334</i><br>Our
+        </td>
+        <td style="text-align: center; vertical-align: middle">
+            <audio src="audio/pertured_black_box_TriAANVC/p225_002_p330_213.wav" controls preload></audio>
+        </td>
+        <td style="text-align: center; vertical-align: middle">
+            <audio src="audio/black_box_TriAANVC_test_antifakeloss/p225_002_p330_213.wav" controls preload></audio>
         </td>
     </tr>
 </table>
@@ -177,28 +176,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         <td></td>
         <th style="text-align: center; vertical-align: middle">Speaker utterance</th>
         <th style="text-align: center; vertical-align: middle">Conversion result</th>
-    </tr>
-    <tr>
-        <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Our
-        </td>
-        <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/pertured_black_box-FreeVC/p225_002_p234_017.wav" controls preload></audio>
-        </td>
-        <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/black_box_FreeVC_test_antifakeloss/p225_002_p234_017.wav" controls preload></audio>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Antifake
-        </td>
-        <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/perture_antifake/p225_002_p234_017.wav" controls preload></audio>
-        </td>
-        <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/antifake2FreeVC/p225_002_p234_017.wav" controls preload></audio>
-        </td>
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
@@ -224,6 +201,17 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
+            <i>p333_334</i><br>Antifake
+        </td>
+        <td style="text-align: center; vertical-align: middle">
+            <audio src="audio/perture_antifake/p225_002_p234_017.wav" controls preload></audio>
+        </td>
+        <td style="text-align: center; vertical-align: middle">
+            <audio src="audio/antifake2FreeVC/p225_002_p234_017.wav" controls preload></audio>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle">
             <i>p333_334</i><br>Our(stage-1)
         </td>
         <td style="text-align: center; vertical-align: middle">
@@ -231,6 +219,17 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/gen_once2FreeVC/p225_002_p234_017.wav" controls preload></audio>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle">
+            <i>p333_334</i><br>Our
+        </td>
+        <td style="text-align: center; vertical-align: middle">
+            <audio src="audio/pertured_black_box-FreeVC/p225_002_p234_017.wav" controls preload></audio>
+        </td>
+        <td style="text-align: center; vertical-align: middle">
+            <audio src="audio/black_box_FreeVC_test_antifakeloss/p225_002_p234_017.wav" controls preload></audio>
         </td>
     </tr>
 </table>
