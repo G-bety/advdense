@@ -59,26 +59,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Defense against TriAANVC
 
-<audio controls>
-  <source src="audio/pertured_black_box_TriAANVC/p225_002_p230_216.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="audio/black_box_TriAANVC_test_antifakeloss/p225_002_p230_216.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="audio/perture_antifake/p225_002_p230_216.wav" type="audio/wav">
-Your browser does not support the audio element.
-
-<audio controls>
-  <source src="audio/antifake2TriAANVC/p225_002_p230_216.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td></td>
