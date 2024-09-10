@@ -12,11 +12,68 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+<audio controls>
+  <source src="audio/pertured_black_box_QuickVC/p225_002_p230_269.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="audio/black_box_FreeVC_test_antifakeloss/p225_002_p230_269.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="audio/perture_antifake/p225_002_p230_269.wav" type="audio/wav">
+Your browser does not support the audio element.
+
+<audio controls>
+  <source src="audio/antifake2QuickVC//p225_002_p230_269.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+
 ## Defense against TriAANVC
 
+<audio controls>
+  <source src="audio/pertured_black_box_TriAANVC/p225_002_p230_216.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="audio/black_box_TriAANVC_test_antifakeloss/p225_002_p230_216.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="audio/perture_antifake/p225_002_p230_216.wav" type="audio/wav">
+Your browser does not support the audio element.
+
+<audio controls>
+  <source src="audio/antifake2TriAANVC/p225_002_p230_216.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 
 ## Defense against FreeVC
 
+
+<audio controls>
+  <source src="audio/pertured_black_box-FreeVC/p225_002_p234_017.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="audio/black_box_FreeVC_test_antifakeloss/p225_002_p234_017.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="audio/perture_antifake/p225_002_p234_017.wav" type="audio/wav">
+Your browser does not support the audio element.
+
+<audio controls>
+  <source src="audio/antifake2FreeVC/p225_002_p234_017.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
