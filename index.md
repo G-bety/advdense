@@ -29,7 +29,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Attack-VC
+            <i>p333_334</i><br><b>Attack-VC</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/pertured_attackvc/p225_002_p230_269.wav" controls preload></audio>
@@ -40,7 +40,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>VoiceGuard
+            <i>p333_334</i><br><b>VoiceGuard</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/pertured_voiceguard/p225_002_p230_269.wav" controls preload></audio>
@@ -51,7 +51,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Antifake
+            <i>p333_334</i><br><b>Antifake</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/perture_antifake/p225_002_p230_269.wav" controls preload></audio>
@@ -62,7 +62,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Our(stage-1)
+            <i>p333_334</i><br><b>Our(stage-1)</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/pertured_gen_once/p225_002_p230_269.wav" controls preload></audio>
@@ -104,7 +104,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Attack-VC
+            <i>p333_334</i><br><b>Attack-VC</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/pertured_attackvc/p225_002_p330_213.wav" controls preload></audio>
@@ -115,7 +115,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>VoiceGuard
+            <i>p333_334</i><br><b>VoiceGuard</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/pertured_voiceguard/p225_002_p330_213.wav" controls preload></audio>
@@ -126,7 +126,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Antifake
+            <i>p333_334</i><br><b>Antifake</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/perture_antifake/p225_002_p330_213.wav" controls preload></audio>
@@ -137,7 +137,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Our(stage-1)
+            <i>p333_334</i><br><b>Our(stage-1)</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/pertured_gen_once/p225_002_p330_213.wav" controls preload></audio>
@@ -179,7 +179,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Attack-VC
+            <i>p333_334</i><br><b>Attack-VC</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/pertured_attackvc/p225_002_p234_017.wav" controls preload></audio>
@@ -190,7 +190,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>VoiceGuard
+            <i>p333_334</i><br><b>VoiceGuard</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/pertured_voiceguard/p225_002_p234_017.wav" controls preload></audio>
@@ -201,7 +201,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Antifake
+            <i>p333_334</i><br><b>Antifake</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/perture_antifake/p225_002_p234_017.wav" controls preload></audio>
@@ -212,7 +212,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br>Our(stage-1)
+            <i>p333_334</i><br><b>Our(stage-1)</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/pertured_gen_once/p225_002_p234_017.wav" controls preload></audio>
