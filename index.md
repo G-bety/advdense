@@ -36,7 +36,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
       </td>
       <td style="text-align: center;">
         <audio src="audio/pertured_black_box_QuickVC/p225_002_p230_269.wav" controls preload></audio>
-      </td style="text-align: center;">
+      </td>
       <td>
         <audio src="audio/black_box_QuickVC_test_antifakeloss/p225_002_p230_269.wav" controls preload></audio>
       </td>
@@ -103,7 +103,7 @@ Your browser does not support the audio element.
       </td>
       <td style="text-align: center;">
         <audio src="audio/pertured_black_box_TriAANVC/p225_002_p230_216.wav" controls preload></audio>
-      </td style="text-align: center;">
+      </td>
       <td>
         <audio src="audio/black_box_TriAANVC_test_antifakeloss/p225_002_p230_216.wav" controls preload></audio>
       </td>
