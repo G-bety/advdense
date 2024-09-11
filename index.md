@@ -14,17 +14,17 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
         <td></td>
-        <th colspan="2" style="text-align: center; vertical-align: middle">Content utterance</th>
+        <th colspan="2" style="text-align: center; vertical-align: middle">Origin Speaker utterance</th>
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle"><i>p225_002</i></td>
         <td colspan="2" style="text-align: center; vertical-align: middle">
-            <audio src="audio/p225_002.wav" controls preload></audio>
+            <audio src="audio/origin/p230_269.wav" controls preload></audio>
         </td>
     </tr>
     <tr>
         <td></td>
-        <th style="text-align: center; vertical-align: middle">Speaker utterance</th>
+        <th style="text-align: center; vertical-align: middle">Protected Speaker utterance</th>
         <th style="text-align: center; vertical-align: middle">Conversion result</th>
     </tr>
     <tr>
@@ -89,17 +89,17 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
         <td></td>
-        <th colspan="2" style="text-align: center; vertical-align: middle">Content utterance</th>
+        <th colspan="2" style="text-align: center; vertical-align: middle">Origin Speaker utterance</th>
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle"><i>p225_002</i></td>
         <td colspan="2" style="text-align: center; vertical-align: middle">
-            <audio src="audio/p225_002.wav" controls preload></audio>
+            <audio src="audio/origin/p330_213.wav" controls preload></audio>
         </td>
     </tr>
     <tr>
         <td></td>
-        <th style="text-align: center; vertical-align: middle">Speaker utterance</th>
+        <th style="text-align: center; vertical-align: middle">Protected Speaker utterance</th>
         <th style="text-align: center; vertical-align: middle">Conversion result</th>
     </tr>
     <tr>
@@ -164,17 +164,17 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
         <td></td>
-        <th colspan="2" style="text-align: center; vertical-align: middle">Content utterance</th>
+        <th colspan="2" style="text-align: center; vertical-align: middle">Origin Speaker utterance</th>
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle"><i>p225_002</i></td>
         <td colspan="2" style="text-align: center; vertical-align: middle">
-            <audio src="audio/p225_002.wav" controls preload></audio>
+            <audio src="audio/origin/p234_017.wav" controls preload></audio>
         </td>
     </tr>
     <tr>
         <td></td>
-        <th style="text-align: center; vertical-align: middle">Speaker utterance</th>
+        <th style="text-align: center; vertical-align: middle">Protected Speaker utterance</th>
         <th style="text-align: center; vertical-align: middle">Conversion result</th>
     </tr>
     <tr>
