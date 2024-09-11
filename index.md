@@ -29,7 +29,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle">
-            <i>p333_334</i><br><b>Attack-VC</b>
+            <i>p230_269</i><br><b>Attack-VC</b>
         </td>
         <td style="text-align: center; vertical-align: middle">
             <audio src="audio/pertured_attackvc/p225_002_p230_269.wav" controls preload></audio>
