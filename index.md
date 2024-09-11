@@ -9,7 +9,7 @@ Voice Conversion (VC) technologies have advanced significantly, enabling voice c
 </center>
 
 # Evaluation
-This demo showcases the defense effects of different defense methods against three different voice conversion models in a black-box scenario. Here, "attack-vc" and "antifake" refer to the official implementations of Attack-VC and Antifake, respectively, while "voiceguard" was implemented by ourselves based on the original paper, as the authors did not provide complete code. "Ours" refers to the method we proposed, and "ours (stage-1)" indicates that the protected samples are generated solely through stage-1.
+This demo showcases the defense effects of different defense methods against three different voice conversion models in a black-box scenario. Here, "attack-vc" and "antifake" refer to the official implementations of Attack-VC and Antifake, respectively, while "voiceguard" was implemented by ourselves based on the original paper, as the authors did not provide complete code. "Ours" refers to the method we proposed, and "ours (stage-1)" indicates that the protected samples are generated solely through stage-1. For comparison, we set the content of all voice conversions to be the same: "Ask her to bring these things with her from the store."
 
 ## Defense against QuickVC
 
