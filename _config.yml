@@ -1,3 +1,4 @@
+remote_theme: thuhcsi/slate
 title: Black-Box Adversarial Defense Against Voice Conversion Using Latent Space Perturbation
 description: Submitted to the ICASSP 2025
 show_downloads: false
