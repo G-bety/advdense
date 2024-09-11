@@ -20,7 +20,7 @@ This demo showcases the defense effects of different defense methods against thr
         <th colspan="2" style="text-align: center; vertical-align: middle">Origin Speaker utterance</th>
     </tr>
     <tr>
-        <td style="text-align: center; vertical-align: middle"><i>p225_002</i></td>
+        <td style="text-align: center; vertical-align: middle"><i>p230_269</i></td>
         <td colspan="2" style="text-align: center; vertical-align: middle">
             <audio src="audio/origin/p230_269.wav" controls preload></audio>
         </td>
@@ -95,7 +95,7 @@ This demo showcases the defense effects of different defense methods against thr
         <th colspan="2" style="text-align: center; vertical-align: middle">Origin Speaker utterance</th>
     </tr>
     <tr>
-        <td style="text-align: center; vertical-align: middle"><i>p225_002</i></td>
+        <td style="text-align: center; vertical-align: middle"><i>p330_213</i></td>
         <td colspan="2" style="text-align: center; vertical-align: middle">
             <audio src="audio/origin/p330_213.wav" controls preload></audio>
         </td>
@@ -170,7 +170,7 @@ This demo showcases the defense effects of different defense methods against thr
         <th colspan="2" style="text-align: center; vertical-align: middle">Origin Speaker utterance</th>
     </tr>
     <tr>
-        <td style="text-align: center; vertical-align: middle"><i>p225_002</i></td>
+        <td style="text-align: center; vertical-align: middle"><i>p234_017</i></td>
         <td colspan="2" style="text-align: center; vertical-align: middle">
             <audio src="audio/origin/p234_017.wav" controls preload></audio>
         </td>
