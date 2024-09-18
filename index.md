@@ -229,10 +229,10 @@ This demo showcases the defense effects of different defense methods against thr
             <i>p279_130</i><br>Our
         </td>
         <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/pertured_black_box-FreeVC/p225_002_p279_130.wav.wav" controls preload></audio>
+            <audio src="audio/pertured_black_box-FreeVC/p225_002_p279_130.wav" controls preload></audio>
         </td>
         <td style="text-align: center; vertical-align: middle">
-            <audio src="audio/black_box_FreeVC_test_antifakeloss/p225_002_p279_130.wav.wav" controls preload></audio>
+            <audio src="audio/black_box_FreeVC_test_antifakeloss/p225_002_p279_130.wav" controls preload></audio>
         </td>
     </tr>
 </table>
